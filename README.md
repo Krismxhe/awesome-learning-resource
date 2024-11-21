@@ -15,6 +15,13 @@ https://colah.github.io/
 https://lilianweng.github.io/
 ```
 
+## Coding4DL
+
+### coding from scratch
+```
+https://bruceyuan.com/
+```
+
 ## Math4DL
 
 Variational Lower Bound
